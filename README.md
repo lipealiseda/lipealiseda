@@ -2,7 +2,7 @@
 
 Statistics student at the University of Florida, from São Paulo, planning to add a second major in sport management. I work on football analytics, with a focus on asking the questions scouts care about and being honest about how sure the answer is.
 
-Looking for internships in football or sports analytics.
+Looking for summer 2027 internships in data science, sports analytics or quantitative roles.
 
 ---
 
